@@ -1,0 +1,17 @@
+# How to use my_dictionary([my_car] in the ex below).keys()
+my_car = {"brand":"Volkswagen", "model":"Passat", "year": 2014}
+x = my_car.keys()
+my_car["color"] = "Silver"
+print(x)
+print(my_car)
+
+# How to use my_dictionary([my_car] in the ex below).values()
+y = my_car.values()
+my_car["color"] = "Blue"
+print(y)
+print(my_car)
+
+z = my_car.items()
+print(z)
+my_car["year"] = 2018
+print(z)

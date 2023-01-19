@@ -1,0 +1,4 @@
+my_tuple = ("Orange", "apple", "pear", "grapes")
+print(my_tuple)
+my_tuple[2] = "Kiwi"
+print(my_tuple)
