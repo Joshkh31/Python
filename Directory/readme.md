@@ -25,4 +25,4 @@ This segment summarizes the document by closely examining the goals set and the 
 
 The detailed content and walkthroughs provided by the lecture gave the learner an insight into learning Python and GitHub. The detailed content on python enabled the learner to solve the exercises in python and with the help of detailed content and live lectures of GitHub the learner successfully created repository and pushed all the exercises to the repo by following the codes provided.
 This was verified by the learner by logging in to GitHub and checking the repository created, which showed all the exercises pushed there.
-Thereafter 2 feature branches were created 'Test' and 'class' , class was merged with test
+Thereafter 2 feature branches were created 'Test' and 'red' , red was merged with test
