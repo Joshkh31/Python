@@ -1,7 +1,7 @@
 #  IaC  Assignment 2  #
 
  # Description # 
-This segment of assignment briefly describes the different contents which have been covered. Apart from descibing the objective it also describes about the methodology used to create the repositories in the existing GitHub account with the python exercises.
+This segment of assignment briefly describes the content covered during few weeks of the module. Apart from descibing the objective it also describes about the methodology used to create the repositories in the existing GitHub account with the python exercises.
 
 
 # Aim #
