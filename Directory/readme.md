@@ -9,7 +9,7 @@ The objective of this assignment is :
 1. To revisit the content covered in Git and GitHub.
 2. To create repository "Python" in the GitHub account.
 3. To save python exercises of week 2 -5 in the repository created.
-4. To create a feature branch and merge with the repository.
+4. To create a feature branch and merge it.
 5. To create a readme.md file, which explains the repo.
 
 
@@ -23,5 +23,6 @@ This part of the file descibes about the methods followed to meet the objectives
 # Conclusion #
 This segment summarizes the document by closely examining the goals set and the results achieved by verifying and testing the gap between the two.
 
-The detailed content and walkthroughs provided by the lecture gave the learner an in sight into learning Python and GitHub. The detailed content on python enabled the learner to solve the exercises in python and with the knpowledge of GitHub the learner successfully created repository and pushed all the exercises to the repo created by following the codes provided.
+The detailed content and walkthroughs provided by the lecture gave the learner an insight into learning Python and GitHub. The detailed content on python enabled the learner to solve the exercises in python and with the help of detailed content and live lectures of GitHub the learner successfully created repository and pushed all the exercises to the repo by following the codes provided.
 This was verified by the learner by logging in to GitHub and checking the repository created, which showed all the exercises pushed there.
+Thereafter 2 feature branches were created 'Test' and 'class' , class was merged with test
